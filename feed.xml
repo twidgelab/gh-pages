@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Twidgelab site</title>
+    <link href="https://twidgelab.github.io/gh-pages/feed.xml" rel="self" />
+    <link href="https://twidgelab.github.io/gh-pages" />
+    <updated>2024-03-09T12:58:32+13:00</updated>
+    <author>
+        <name>Kevin Romond</name>
+    </author>
+    <id>https://twidgelab.github.io/gh-pages</id>
+
+    <entry>
+        <title>About</title>
+        <author>
+            <name>Kevin Romond</name>
+        </author>
+        <link href="https://twidgelab.github.io/gh-pages/about.html"/>
+        <id>https://twidgelab.github.io/gh-pages/about.html</id>
+
+        <updated>2024-03-09T12:50:56+13:00</updated>
+            <summary>
+                <![CDATA[
+                    We are a small team located in Aotearoa.&nbsp; For our motion packs we employ a 30 camera optical motion capture system.&nbsp; Optical motion&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    We are a small team located in Aotearoa.&nbsp; For our motion packs we employ a 30 camera optical motion capture system.&nbsp; Optical motion capture is the gold standard for accuracy and reliability.&nbsp;&nbsp;
+  </p>
+
+  <p>
+    Did&nbsp; you know there are nearly as many bones in the fingers as there are in the rest of a typical mocap skeleton?&nbsp; Well that's why most motions available in the marketplace have no finger motion data.&nbsp;&nbsp;Almost all of our motions include full finger motions using Stretchsense gloves. <br><br>Go for the best.&nbsp; Go for those TwidgeLab motions!
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Coming Soon</title>
+        <author>
+            <name>Kevin Romond</name>
+        </author>
+        <link href="https://twidgelab.github.io/gh-pages/coming-soon.html"/>
+        <id>https://twidgelab.github.io/gh-pages/coming-soon.html</id>
+
+        <updated>2024-03-09T12:58:32+13:00</updated>
+            <summary>
+                <![CDATA[
+                    High quality motion packs soon available on the Unreal Engine Marketplace. FWe employ a 30 camera optical motion capture system and clean and&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://twidgelab.github.io/gh-pages/media/posts/1/TwidgeLab.png" alt="" width="1443" height="1443" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-xs.png 300w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-sm.png 480w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-md.png 768w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-lg.png 1024w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-xl.png 1360w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-2xl.png 1600w"></figure>
+<p> </p>
+<p>High quality motion packs soon available on the Unreal Engine Marketplace.  FWe employ a 30 camera optical motion capture system and clean and tune every take.  Optical motion capture is the gold standard for accuracy and reliability.  <br><br>Go for the best.  Go for the TwidgeLab motions</p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
