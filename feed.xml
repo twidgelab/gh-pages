@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Twidgelab site</title>
-    <link href="https://twidgelab.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://twidgelab.github.io/gh-pages" />
+    <link href="https://twidgelab.com/feed.xml" rel="self" />
+    <link href="https://twidgelab.com" />
     <updated>2024-03-09T13:05:27+13:00</updated>
     <author>
         <name>Kevin Romond</name>
     </author>
-    <id>https://twidgelab.github.io/gh-pages</id>
+    <id>https://twidgelab.com</id>
 
     <entry>
         <title>About</title>
         <author>
             <name>Kevin Romond</name>
         </author>
-        <link href="https://twidgelab.github.io/gh-pages/about.html"/>
-        <id>https://twidgelab.github.io/gh-pages/about.html</id>
+        <link href="https://twidgelab.com/about.html"/>
+        <id>https://twidgelab.com/about.html</id>
 
         <updated>2024-03-09T12:50:56+13:00</updated>
             <summary>
@@ -41,8 +41,8 @@
         <author>
             <name>Kevin Romond</name>
         </author>
-        <link href="https://twidgelab.github.io/gh-pages/coming-soon.html"/>
-        <id>https://twidgelab.github.io/gh-pages/coming-soon.html</id>
+        <link href="https://twidgelab.com/coming-soon.html"/>
+        <id>https://twidgelab.com/coming-soon.html</id>
 
         <updated>2024-03-09T13:05:27+13:00</updated>
             <summary>
@@ -52,7 +52,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy"  src="https://twidgelab.github.io/gh-pages/media/posts/1/TwidgeLab.png" alt="" width="1443" height="1443" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-xs.png 300w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-sm.png 480w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-md.png 768w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-lg.png 1024w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-xl.png 1360w ,https://twidgelab.github.io/gh-pages/media/posts/1/responsive/TwidgeLab-2xl.png 1600w"></figure>
+                <figure class="post__image"><img loading="lazy"  src="https://twidgelab.com/media/posts/1/TwidgeLab.png" alt="" width="1443" height="1443" sizes="(max-width: 48em) 100vw, 768px" srcset="https://twidgelab.com/media/posts/1/responsive/TwidgeLab-xs.png 300w ,https://twidgelab.com/media/posts/1/responsive/TwidgeLab-sm.png 480w ,https://twidgelab.com/media/posts/1/responsive/TwidgeLab-md.png 768w ,https://twidgelab.com/media/posts/1/responsive/TwidgeLab-lg.png 1024w ,https://twidgelab.com/media/posts/1/responsive/TwidgeLab-xl.png 1360w ,https://twidgelab.com/media/posts/1/responsive/TwidgeLab-2xl.png 1600w"></figure>
 <p> </p>
 <p>High quality motion packs soon available on the Unreal Engine Marketplace.  We employ a 30 camera optical motion capture system, cleaning and tuning every take.  Optical motion capture is the gold standard for accuracy and reliability.  <br><br>Go for the best.  Go for the TwidgeLab motions</p>
 <p> </p>
